@@ -12,7 +12,7 @@ df2 = df2.dropna()
 cm = sns.diverging_palette(220, 10, sep=80, as_cmap=True)
 s = (df2.style
         .background_gradient(cmap=cm)
-        .set_precision(1)
+        .set_precision(3)
         .hide_index())
 with open('table.html', 'w') as f:
     f.write(s.render())
