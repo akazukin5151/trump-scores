@@ -7,3 +7,5 @@ Source: https://projects.fivethirtyeight.com/congress-trump-score/
 ![trump_scores](trump_scores.png)
 
 x-axis is the predicted Trump score, y-axis is the actual Trump score (except for the histogram, whose y-axis is frequency)
+
+![table](table.png)
