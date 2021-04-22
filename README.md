@@ -1,5 +1,7 @@
 # trump-scores
 
+Similar official project [here](https://projects.fivethirtyeight.com/biden-congress-votes/) (after ~9 months) but for Biden
+
 Source: https://projects.fivethirtyeight.com/congress-trump-score/
 
 > Plus-minus measures how frequently a member agrees with Trump compared with how frequently we would expect the member to, based on Trump’s 2016 vote margin in the member’s state or district
